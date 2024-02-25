@@ -1,5 +1,5 @@
 # Mirror-Translator(DESCONTINUADO)
-### Como o projeto foi esquecido por mim e posteriormente surgiram soluções semelhantes, resolvi atualizar o readme para avisar para quem caiu aqui de paraquedas que este projeto foi descontinuado.
+### Como o projeto foi esquecido por mim e posteriormente surgiram soluções semelhantes, resolvi atualizar o readme para avisar para quem caiu aqui de paraquedas que este projeto da minha parte foi descontinuado.
 
 Escolha uma aplicação do PC ou a tela inteira para traduzir textos em tempo real. 
 No momento funcionará apenas no Mozilla Firefox até os outros navegadores derem suporte ao screen-capture. 
