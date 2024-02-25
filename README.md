@@ -1,4 +1,4 @@
-# Mirror-Translator(EM PROGRESSO)
+# Mirror-Translator(DESCONTINUADO)
 Escolha uma aplicação do PC ou a tela inteira para traduzir textos em tempo real. 
 No momento funcionará apenas no Mozilla Firefox até os outros navegadores derem suporte ao screen-capture. 
 
